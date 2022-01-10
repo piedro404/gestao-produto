@@ -1,0 +1,14 @@
+body {
+  background-image: url(https://i.ibb.co/8zkrk1p/thumb-1920-1057181.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+ }
+
+.trash-item{
+  float: right;
+  color: red;
+}
+#nome_produto{
+  font-size: 50px;
+}
