@@ -1,1 +1,1 @@
-web: gunicorn project.wsgi
+web: gunicorn gestao_produtos.wsgi
